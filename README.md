@@ -8,6 +8,10 @@ Intro to Statistical NLP
 
 Prof. Yassine Benajiba, TA  Ali Seyfi
 
+
+
+Documents:
+
 yelp_dataset_all.txt, yelp_review_dataset: two formats of the data
 
 yelp_data_fetch.py: python program to fetch data
